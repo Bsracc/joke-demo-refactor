@@ -2,6 +2,7 @@
 """Write one one-line joke about working beside AI coding agents to /output/entry.txt.
 
 No network, no dependencies. Python 3.13 compatible.
+The text is 84 characters, within the 1-280 limit.
 """
 
 from pathlib import Path
